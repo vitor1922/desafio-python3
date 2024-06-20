@@ -1,1 +1,1 @@
-Desafio Python Sistema Bancário DIO
+Projeto Sistema Bancário DIO Python
